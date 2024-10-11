@@ -44,7 +44,7 @@
 
 .card-2-content {
     flex: 1; 
-    margin-right: 120px; 
+    margin-right: 115px; 
 }
 
 .card-2-image {
@@ -56,8 +56,8 @@
 }
 
 .card-2 h2 {
-    font-size: 20px;
-    margin-bottom: 5px;
+    font-size: 19px;
+    margin-bottom: 1px;
 }
 
 .card-2 p {
