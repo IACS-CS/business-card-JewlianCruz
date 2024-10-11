@@ -23,3 +23,18 @@ margin: 4px 0;
 .attribution {
 font-size: 12px;
 color: #666;
+}
+.card-1{
+  display:flex;
+  align-items:bottom;
+  border: 1px solid;
+  border-radius: 8px;
+  padding:10px;
+}
+.card-1-image {
+  width:100px;
+  height:auto;
+}
+.card-1-content{
+  flex:1;
+}
